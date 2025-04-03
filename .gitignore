@@ -1,0 +1,18 @@
+
+# Build directories and logs
+/build
+/install
+/log
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+
+# ROS 2 message generation artifacts
+*.pyc
+*.swp
+
+# Editor temporary files
+*~
